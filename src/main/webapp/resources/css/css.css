@@ -1,0 +1,28 @@
+body {
+    background: white;
+}
+
+.color1 {
+    background: green;
+    color: white;
+}
+
+.color2 {
+    background: aliceblue;
+    color: black;
+}
+
+a {
+    display: block;
+}
+
+button {
+    background: green;
+    color: white;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.white {
+    background: white;
+}
